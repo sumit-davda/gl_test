@@ -1,0 +1,5 @@
+employee:
+    name: Akshay
+    age: 28
+    city: Mumbai
+    values: first,second,third
